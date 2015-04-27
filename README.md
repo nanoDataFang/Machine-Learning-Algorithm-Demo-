@@ -1,1 +1,1 @@
-# Machine-Learning-Algorithm-Demo-
+# Machine-Learning-Algorithms-Demo-
